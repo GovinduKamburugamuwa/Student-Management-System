@@ -2,8 +2,7 @@
 
 A full-stack CRUD application for managing student records with authentication, search, pagination, and export features.
 
-> **Assignment**: CRUD Application - Student Management System  
-> **Position**: Associate Software Engineer Intern  
+Student Management System  
 > **Tech Stack**: MERN (MongoDB, Express, React, Node.js)
 
 
