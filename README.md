@@ -186,8 +186,7 @@ npm run dev
 
 ## 👨‍💻 Developer (Govindu Kamburugamuwa)
 
-**Assignment**: CRUD Application - Student Management System  
-**Position**: Associate Software Engineer Intern  
+Student Management System  
 **Tech Stack**: MERN Stack (MongoDB, Express.js, React, Node.js)  
 **Year**: 2025
 
